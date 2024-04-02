@@ -1,2 +1,1 @@
-# Projeto-42
-Projeto da aula 42.
+# PRO-V2-C42-ModeloProjeto
